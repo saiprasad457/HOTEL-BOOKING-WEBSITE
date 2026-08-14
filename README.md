@@ -222,7 +222,7 @@ The website is fully responsive and adapts to all screen sizes:
 
 ## 🙋‍♂️ Author
 
-Built by **Preetham** as a frontend web development project.
+Built by **Saiprasad** as a frontend web development project.
 Feel free to ⭐ star the repo if you found it useful!
 
 ---
